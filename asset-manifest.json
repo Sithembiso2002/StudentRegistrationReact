@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/StudentRegistrationReact.git/static/css/main.34f28011.css",
+    "main.js": "/StudentRegistrationReact.git/static/js/main.f10eb054.js",
+    "static/media/1.png": "/StudentRegistrationReact.git/static/media/1.fad1579fd497424f65c9.png",
+    "static/media/b1.png": "/StudentRegistrationReact.git/static/media/b1.c69b2e7c86e0b9cc4fff.png",
+    "static/media/logo2.png": "/StudentRegistrationReact.git/static/media/logo2.1657b53f72a4cdd2dd6c.png",
+    "index.html": "/StudentRegistrationReact.git/index.html",
+    "main.34f28011.css.map": "/StudentRegistrationReact.git/static/css/main.34f28011.css.map",
+    "main.f10eb054.js.map": "/StudentRegistrationReact.git/static/js/main.f10eb054.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34f28011.css",
+    "static/js/main.f10eb054.js"
+  ]
+}

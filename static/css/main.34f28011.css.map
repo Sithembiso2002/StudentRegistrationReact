@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.34f28011.css","mappings":"AAAA,KAAgE,kBAAmB,CAAlE,yCAA6C,CAAvD,QAA8E,CACrF,KAAO,YAAe","sources":["styles.css"],"sourcesContent":["body { margin:0; font-family: Inter, Roboto, Arial, sans-serif; background: #ddc9b5; }\r\n.app { padding: 24px; }"],"names":[],"sourceRoot":""}
